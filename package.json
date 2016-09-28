@@ -1,0 +1,25 @@
+{
+  "name": "hisense-remote",
+  "version": "0.0.4",
+  "description": "Hisense Remote",
+  "author": "Stoner221",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  },
+  "license": "ISC",
+  "keywords": [
+    "hisense-remote", "hisense"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stoner221/hisense-remote"
+  },
+  "bugs": {
+    "url": "https://github.com/stoner221/hisense-remote"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
