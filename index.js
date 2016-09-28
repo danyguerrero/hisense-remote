@@ -1,0 +1,1 @@
+module.exports = require('./lib/hisense-remote.js');
